@@ -46,6 +46,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "deploy": "^1.0.3",
+    "gh-pages": "^3.2.3",
+    "netlify": "^11.0.1"
   }
 }
