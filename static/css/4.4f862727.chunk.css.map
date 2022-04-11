@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/filmList/FilmList.module.css","webpack://src/pages/home/Home.module.css"],"names":[],"mappings":"AAAA,6BACE,UACF,CCFA,yBACE,gBAAiB,CAGjB,kBAFF","file":"4.4f862727.chunk.css","sourcesContent":[".filmNavLink {\n  color: blue;\n}\n",".secsionHome {\n  margin-left: 20px;\n}\n.secsionHome {\n  margin-bottom: 20px;\n}\n"]}

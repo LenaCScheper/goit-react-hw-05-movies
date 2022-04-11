@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/reviews/Reviews.module.css"],"names":[],"mappings":"AAAA,gCACE,gBACF,CAEA,6BACE,gBAAiB,CACjB,kBACF,CAEA,gCACE,SACF","file":"7.53310b10.chunk.css","sourcesContent":[".reviewContainer {\n  margin-left: 20px;\n}\n\n.reviewAuthor {\n  margin-left: 20px;\n  margin-bottom: 10px;\n}\n\n.reviewAuthorNme {\n  color: red;\n}\n"]}
